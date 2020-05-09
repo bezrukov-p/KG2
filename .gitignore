@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+packages/
+
+lib/obj/
+
+lib/bin/
+
+cgprog/obj/
+
+cgprog/bin/
+
+cgprog/.vs/
